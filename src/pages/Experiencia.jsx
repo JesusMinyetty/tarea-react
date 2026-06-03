@@ -12,7 +12,7 @@ function Experiencia() {
       <iframe
         width="100%"
         height="315"
-        src="https://www.youtube.com/embed/ABC123XYZ"
+        src="https://drive.google.com/file/d/1bBZpxATOhc2ypbfzA4xTDZPbSEq1rByh/view?usp=sharing "
         title="Mi experiencia"
         allowFullScreen
       ></iframe>
